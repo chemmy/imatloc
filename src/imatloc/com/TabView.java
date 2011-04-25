@@ -33,7 +33,7 @@ public class TabView extends TabActivity {
 	    tabHost.addTab(spec);//添加进tabHost
  
 	    tabHost.getTabWidget().setStripEnabled(true);
-	    tabHost.setCurrentTab(1);
+	    tabHost.setCurrentTab(0);
 	}
 
 
