@@ -25,6 +25,9 @@
         <activity android:name="MapLocTab">
         </activity>
         
+        <activity android:name="IMTab">
+        </activity>
+        
         
         <uses-library android:name="com.google.android.maps" />
         
