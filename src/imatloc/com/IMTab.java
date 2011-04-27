@@ -25,7 +25,7 @@ public class IMTab extends Activity {
 
 		try {
 			conn1.connect();
-			conn1.login("chemmy","820916" );
+			conn1.login("","" );
 
 		} catch (XMPPException e) {
 			// TODO Auto-generated catch block
