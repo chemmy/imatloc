@@ -3,6 +3,8 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="gen"/>
 	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
-	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/smack"/>
+	<classpathentry kind="lib" path="jar/smack.jar" sourcepath="/home/chemmy/Working/workspace/smack_src_3_1_0/source"/>
+	<classpathentry kind="lib" path="jar/smackx-debug.jar"/>
+	<classpathentry kind="lib" path="jar/smackx.jar" sourcepath="/home/chemmy/Working/workspace/smack_src_3_1_0/source"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
